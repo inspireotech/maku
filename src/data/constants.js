@@ -1,23 +1,118 @@
 export const Bio = {
-  name: "Rishav Chanda",
+  name: "Mahrukh Azhar",
   roles: [
-    "Full Stack Developer",
-    "Android Developer",
-    "UI/UX Designer",
-    "Programmer",
+    "The Director of Limeout",
+    "an Entrepreneur",
+    "a lawyer",
   ],
   description:
-    "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
-  github: "https://github.com/rishavchanda",
+    "I'm dedicated and hardworking individual committed to transform your digital dreams into reality. Known for my competitive spirit and strong work ethic, I excel in both individual and team settings. I Developed LimeOut Services to offer the community a one stop solution, the whole idea is to revolutionize your business with modren techstack using my services. Limeout is backed with a team of specaillized individuals offering wide specturm of skillsets.",
+  github: "https://www.linkedin.com/in/limeout-services-a09aa4314/",
   resume:
-    "https://drive.google.com/file/d/1txFKZD3LNIXMc329jD9c995AU8LItOXK/view?usp=drive_link",
-  linkedin: "https://www.linkedin.com/in/rishav-chanda-b89a791b3/",
-  twitter: "https://twitter.com/RishavChanda",
-  insta: "https://www.instagram.com/rishav_chanda/",
-  facebook: "https://www.facebook.com/rishav.chanda.165/",
+    "https://www.instagram.com/limeoutservices?igsh=MWVxdXl2aWduOHZycg%3D%3D&utm_source=qr",
+  linkedin: "https://www.linkedin.com/in/limeout-services-a09aa4314/",
+  insta: "https://www.instagram.com/shayaan.zulfiqarr?igsh=amZnZnRpY2Vtc2k4&utm_source=qr",
 };
 
 export const skills = [
+  
+  {
+    title: "Marketing",
+    skills: [
+      {
+        name: "Amazon",
+        image: "https://img.icons8.com/?size=100&id=31761&format=png&color=000000",
+      },
+      {
+        name: "Shopify",
+        image:
+          "https://img.icons8.com/?size=100&id=uSHYbs6PJfMT&format=png&color=000000",
+      },
+      {
+        name: "Etsy",
+        image: "https://img.icons8.com/?size=100&id=hjA6L6vUUeVm&format=png&color=000000",
+      },
+      {
+        name: "Ticktok",
+        image:
+          "https://img.icons8.com/?size=100&id=cH72GwaE0Msa&format=png&color=000000",
+      },
+      {
+        name: "Facebook",
+        image:
+          "https://img.icons8.com/?size=100&id=118497&format=png&color=000000",
+      },
+      {
+        name: "Meta",
+        image:
+          "https://img.icons8.com/?size=100&id=PvvcWRWxRKSR&format=png&color=000000",
+      },
+      {
+        name: "SEO",
+        image:
+          "https://img.icons8.com/?size=100&id=12814&format=png&color=000000",
+      },
+      {
+        name: "LeadGeneration",
+        image: "https://img.icons8.com/?size=100&id=79097&format=png&color=000000",
+      },
+      {
+        name: "SocialMedia",
+        image:
+          "https://img.icons8.com/?size=100&id=32323&format=png&color=000000",
+      },
+      {
+        name: "Add creatives",
+        image: "https://img.icons8.com/?size=100&id=102544&format=png&color=000000",
+      },
+    ],
+  },
+  {
+    title: "Branding",
+    skills: [
+    
+      {
+        name: "Custom Boxes",
+        image:
+          "https://img.icons8.com/?size=100&id=1wVCwlb3mVlV&format=png&color=000000",
+      },
+      {
+        name: "Custom Printing",
+        image: "https://img.icons8.com/?size=100&id=NcFsIozAvc62&format=png&color=000000",
+      },
+      {
+        name: "Custom Packaging",
+        image:
+          "https://img.icons8.com/?size=100&id=iWDk7a3aaju3&format=png&color=000000",
+      },
+      {
+        name: "Laser engraving",
+        image:
+          "https://img.icons8.com/?size=100&id=XNBffBq2YONR&format=png&color=000000",
+      },
+      {
+        name: "Visting Cards",
+        image:
+          "https://img.icons8.com/?size=100&id=rWQpCHoaUUFc&format=png&color=000000",
+      },
+      {
+        name: "Cooperate printing",
+        image:
+          "https://img.icons8.com/?size=100&id=rWQpCHoaUUFc&format=png&color=000000",
+      },
+      {
+        name: "Event Managment",
+        image: "https://img.icons8.com/?size=100&id=2a33iCEvKfU6&format=png&color=000000",
+      },
+      {
+        name: "Custom Giftsets",
+        image:
+          "https://img.icons8.com/?size=100&id=RqOcjssJKIid&format=png&color=000000",
+      },
+      
+    ],
+  },
+
   {
     title: "Frontend",
     skills: [
@@ -123,6 +218,7 @@ export const skills = [
       },
     ],
   },
+
   {
     title: "DevOps",
     skills: [
@@ -276,10 +372,43 @@ export const skills = [
 
 export const experiences = [
   {
-    id: 0,
-    img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/neurobit.jpeg?alt=media&token=1cacbb7b-e5ea-4efb-9b3d-f5a31b9564ad",
+    id: 1,
+    img: "https://firebasestorage.googleapis.com/v0/b/limeout-3ee87.appspot.com/o/limeout.jpg?alt=media&token=fb41e77e-5060-4035-9f4e-39224a668d78",
+    role: "Director",
+    company: "LimeOut Services",
+    date: "Sep 2023 - Current",
+    desc: "Our Service company is committed to delivering unparalleled expertise in Tech-related issues, Event Management, Photography, and various Freelancing opportunities. With a professional tone of voice and a dedication to excellence, Limeout Services prides itself on providing top-notch assistance in navigating the intricate world of technology, organizing seamless events, capturing memorable moments through photography, and thriving in the dynamic realm of freelancing. By offering a diverse range of services, Limeout Services aims to cater to the distinct needs and aspirations of its clients, delivering reliable and exceptional support in every endeavor.",
+     skills: [
+      "Marketing",
+      "Branding",
+      "Frontend",
+      "Backend",
+      "Add creatives",
+    ],
+  },
+ 
+  {
+    id: 2,
+    img: "https://firebasestorage.googleapis.com/v0/b/marukh-website.appspot.com/o/images%20(1).jpeg?alt=media&token=d96e354e-4b9a-4cf3-a4f7-c0833fa68296",
+    role: "Internship",
+    company: "SR-Law Islamabad ",
+    date: "1st march 2022 - 1st march 2023",
+    desc: "SR Law is a young, dynamic, and professional group of lawyers, who provide an unparalleled degree of professional and intellectual commitment to serve the interest of their clients. While doing my internship at SR LAW my tasks were simple yet complicated I used to write drafts, and legal contracts and attended many meetings. I was a part of a dynamic team that helped me in everything.  Working in SR LAW it taught me a lot and I had the best working experience ",
+    skills: [
+      "Legal Drafting",
+      "Contract Management",
+      "Research and Analysis",
+      "Attention to Detail",
+      "Professional Communication",
+      "Time Management",
+    ],
+    doc: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/1696514649120.jpeg?alt=media&token=e7f6757b-edfa-4138-a692-d6709eeef3e2",
+  },
+   {
+    id: 3,
+    img: "https://firebasestorage.googleapis.com/v0/b/limeout-3ee87.appspot.com/o/2023-10-01.jpg?alt=media&token=7f8121c2-fb17-4f72-9121-7c3d79ddad22",
     role: "Frontend Engineer Intern",
-    company: "Neurobit",
+    company: "Inspireotech Solutions",
     date: "June 2023 - Nov 2023",
     desc: "Enhanced user experiences on Neurobit PSG & Hybrid, Portals by resolving bugs & reduced load time by 40%. Built Neurobit Analytics portal using React Js with seamless interaction of REST APIs using AXIOS optimized with React Query. Refactored previous code to TypeScript, updated with new dependency and integrated Vite with Jest for Unit Testing.",
     skills: [
@@ -294,118 +423,81 @@ export const experiences = [
     doc: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/Screenshot%20from%202024-01-25%2022-38-31.png?alt=media&token=2785903f-1a4e-41f5-afd2-6adcfe56d058",
   },
   {
-    id: 1,
-    img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/flipr.jpeg?alt=media&token=1d72532a-45eb-4c1a-a81a-c9bed9fec543",
-    role: "DevOps & Fullstack Engineering Intern",
-    company: "Flipr Inovations Pvt. Ltd.",
-    date: "Aug 2023 - Oct 2023",
-    desc: "Built Flipr Connect Platforms using React Js integrated GraphQL with AXIOS, created High level Design and Figma design. Built Backend with GraphQL and Node JS and connected with MongoDb - Reducing API calls by 20%. Dockerized and automated with Kubernetes & Jenkins CI/CD deployed in AWS-EC2 added Prometheus & Grafana for monitoring.",
+    id: 4,
+    img: "https://firebasestorage.googleapis.com/v0/b/marukh-website.appspot.com/o/images.png?alt=media&token=afce0d3c-9edf-4b94-9951-8b53cbca18c9",
+    role: "Internship",
+    company: "Mari Petroleum Company Limited ( MPCL )",
+    date: "3 weeks",
+    desc: "Mari Petroleum is one of the leading integrated E&P Companies in Pakistan, The Company plays a pivotal role in ensuring the food security of Pakistan as more than 90% of the urea production in the Country is based on MPCL-supplied gas. I was working in their corporate affairs. ",
     skills: [
-      "Docker",
-      "Terraform",
-      "AWS",
-      "EC2",
-      "Portainer",
-      "Nginx",
-      "JavaScript",
-      "TypeScript",
-      "Node Js",
-      " Next Js",
-    ],
-    doc: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/1696514649120.jpeg?alt=media&token=e7f6757b-edfa-4138-a692-d6709eeef3e2",
-  },
-  {
-    id: 2,
-    img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/Rudraksha.jpeg?alt=media&token=8f83f41e-d0a1-486f-9c7f-dd4cd1d09e8d",
-    role: "Android Developer Intern",
-    company: "Rudraksha Welffare Foundation",
-    date: "June 2021 - Oct 2021",
-    desc: "• Built RudraShakti - Astrologer App, with MVVM Architecture using Java and Android Studio integrating Firebase SDK. Created One to One video call integration with Socket.IO and Firebase cloud functions and integrated with Retrofit. Created Low Level Design and converted Figma design to XML code.",
-    skills: [
-      "Android",
-      "Java",
-      "Kotlin",
-      "XML",
-      "Node Js",
-      "Cloud Firestore",
-      "Firebase",
-      "Figma",
+      "Leadership",
+      "Contact management",
+      "Customer service",
+      "Project management",
+      "Data analysis",
+      "Salesforce Admin",
     ],
     doc: "https://firebasestorage.googleapis.com/v0/b/buckoid-917cf.appspot.com/o/WhatsApp%20Image%202023-05-05%20at%2012.07.39%20AM.jpeg?alt=media&token=9f0e1648-568b-422d-bd0b-1f125f722245",
   },
   {
-    id: 3,
-    img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/flipr.jpeg?alt=media&token=1d72532a-45eb-4c1a-a81a-c9bed9fec543",
-    role: "Fullstack Externship",
-    company: "Flipr",
-    date: "June 2023 - July 2023",
-    desc: "Built an employee management full stack web app used Docker and deployed on AWS ec2. I was the top performer in the program.",
+    id: 5,
+    img: "https://firebasestorage.googleapis.com/v0/b/marukh-website.appspot.com/o/images%20(1).png?alt=media&token=4b6676cf-5cfd-4bea-a7c4-d7a91418e30d",
+    role: "HR Manager",
+    company: "DHA Quetta ",
+    date: "1st August 2023 - to 3 November 2023",
+    desc: "Defence Housing Authority Quetta, also known as DHA Quetta, is a dedicated and integrated housing society committed to providing a secure and well-organized living environment for all Pakistani citizens in Balochistan. In their HR department, I learned a lot about field visits and the thought behind building the DHA Quetta.",
     skills: [
-      "ReactJS",
-      "Redux",
-      "NodeJs",
-      "Material UI",
-      "HTML",
-      "CSS",
-      "JavaScript",
-      "Docker",
-      "AWS",
-      "MongoDB",
+      "HR managment",
+      "Team Building",
+      "Scurm",
+      "Project managment",
     ],
     doc: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/1691181448873.jpeg?alt=media&token=ee85eb8f-7247-43cd-9a1d-ce9f58ea62a6",
   },
+  
   {
-    id: 4,
-    img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/gdsc.jpeg?alt=media&token=c162329c-efaa-4be8-a173-8d3f4c48ea70",
-    role: "Android Developer",
-    company: "DSC KIIT",
-    date: "Nov2021 - Present",
-    desc: "As an Android developer at the Google Developers Student Club (GDCS), I have had the opportunity to work on exciting projects and collaborate with talented developers who share my passion for technology. Through my involvement with GDCS, I have also had the opportunity to host and participate in numerous events, including hackathons, study jams, and workshops.",
+    id: 6,
+    img: "https://firebasestorage.googleapis.com/v0/b/limeout-3ee87.appspot.com/o/1693743801251.jpeg?alt=media&token=43afce56-4de8-4561-a14c-a29cd31aafc5",
+    role: "Graphic Designer ",
+    company: "EvoSphere Marketing",
+    date: "May 2023 - 2022",
+    desc: "EVOSPHERE MARKETING is not just a marketing agency; we are your dedicated growth partners. In a world saturated with noise, where brands are constantly vying for attention, we stand out as the beacon of innovative marketing solutions that drive real, measurable results.",
     skills: [
-      "Leadership",
-      "Mobile Application Development",
-      "Kotlin",
-      "XML",
-      "Figma",
+      "Communication",
+      "Creativity",
+      "Typography",
+      "User experience design",
+
     ],
-  },
-  {
-    id: 5,
-    img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/girlScript.jpeg?alt=media&token=e656a621-cf3c-4230-bf0f-e74b4cec6035",
-    role: "Open Source Contributor ",
-    company: "GirlScript Summer of Code",
-    date: "May 2023 - Present",
-    desc: "Contributed to different open-source projects and learn from industry experts",
   },
 ];
 
 export const education = [
   {
     id: 0,
-    img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/Kiit.jpeg?alt=media&token=3839d520-c59d-4341-ad8f-0980c98de4dd",
-    school: "Kalinga Institute of Industrial Technology, Bhubaneswar",
-    date: "Oct 2021 - Sep 2025",
-    grade: "8.41 CGPA",
-    desc: "I am currently pursuing a Bachelor's degree in Computer Science and Engineering at Kalinga Institute of Industrial Technology, Bhubaneswar. I have completed 4 semesters and have a CGPA of 8.71. I have taken courses in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks, among others. I am also a member of the Google Developers Student Club (GDSC) at KIIT, where I am learning and working on exciting projects with a team of talented developers.",
-    degree: "Bachelor of Technology - BTech, Computer Science and Engineering",
+    img: "https://firebasestorage.googleapis.com/v0/b/marukh-website.appspot.com/o/images%20(2).png?alt=media&token=c7b0f949-dbe6-462e-9a04-b0b8819f5ec8",
+    school: "Pearson",
+    date: "Oct 2021 - Sep 2024",
+    grade: "Distension",
+    desc: "Pearson is developing World Class Qualifications that empower learners to develop important skills to make progress in their lives through learning.",
+    degree: "HND",
   },
   {
     id: 1,
-    img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/methodist.png?alt=media&token=018a1b18-e2dd-4f34-8855-cff1b6b69fd3",
-    school: "Methodist School, Dankuni",
-    date: "Apr 2019 - Apr 2025",
-    grade: "88.2%",
-    desc: "I completed my class 12 high school education at Methodist School, Dankuni, where I studied Science with Computer Science.",
-    degree: "ISC(XII), Science with Computer",
+    img: "https://firebasestorage.googleapis.com/v0/b/limeout-3ee87.appspot.com/o/WhatsApp%20Image%202024-06-24%20at%2003.49.00_42a05302.jpg?alt=media&token=f9241601-b0bf-4e59-bdad-666cea6c6e8e",
+    school: "BeaconHouse Margalla Institute , Islamabad",
+    date: "Apr 2019 - Apr 2021",
+    grade: "A*",
+    desc: "I graduated from A-levels with strong academic achievements. Throughout my studies, I developed a solid foundation in critical thinking, problem-solving, and effective communication. My A-level experience has prepared me well for the challenges of higher education and beyond, fostering a commitment to lifelong learning and excellence.",
+    degree: "A-level",
   },
   {
     id: 2,
-    img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/methodist.png?alt=media&token=018a1b18-e2dd-4f34-8855-cff1b6b69fd3",
-    school: "Methodist School, Dankuni",
-    date: "Apr 2017 - Apr 2019",
-    grade: "92.3%",
-    desc: "I completed my class 10 education at Methodist School, Dankuni, where I studied Science with Computer Application.",
-    degree: "ICSC(X), Science with Computer",
+    img: "https://firebasestorage.googleapis.com/v0/b/marukh-website.appspot.com/o/images%20(3).png?alt=media&token=7742652f-0e93-4206-85b2-36934c743290",
+    school: "Army Public School And College Skardu",
+    date: "Apr 2016 - Apr 2019",
+    grade: "A*",
+    degree: "Matric ",
   },
 ];
 

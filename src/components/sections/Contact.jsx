@@ -135,6 +135,9 @@ const Contact = () => {
           }}
         >
           Feel free to reach out to me for any questions or opportunities!
+          <br />
+          Limeoutservices@gmail.com
+
         </Desc>
         <ContactForm onSubmit={handelSubmit}>
           <ContactTitle>Email Me 🚀</ContactTitle>
